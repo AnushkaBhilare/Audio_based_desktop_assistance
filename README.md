@@ -5,5 +5,4 @@ Automated Virtual Personal Assistant is a software agent that can perform tasks 
 It engages the user in a friendly two-way conversation to helping you with simple tasks like setting a reminder to even more complicated tasks such as WhatsApp Automation.
 
 Digital assistants are intelligent enough to understand the context of a query and deliver corresponding responses. Moreover, in process of responding to users, assistants also tend to learn from them by analysing their patterns and preferences.
-![image](https://github.com/AnushkaBhilare/Audio_based_desktop_assistance/assets/92846181/f385764d-ec9f-4813-9d5c-1706b7668d12)
 
